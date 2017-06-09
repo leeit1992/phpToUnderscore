@@ -1,10 +1,10 @@
  <?php
 /**
  * Package: PhpConvert
- * Author: Aweteam
+ * Author: HaLe
  * Version: 1.1
  * Description: Convert php to js underscore
- * Website: http://awethemes.com/
+ * Website: http://oneplus.com/
  */
 
 class PhpConver{
@@ -364,4 +364,3 @@ class PhpConver{
     }
 }
 
-new PhpConver( file_get_contents( 'untitled.tpl.php' ), false, 'put.php' );
